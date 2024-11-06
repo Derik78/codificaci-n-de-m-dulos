@@ -1,0 +1,9 @@
+com\matchmingle\models\Emparejamiento.class
+com\matchmingle\models\Perfil.class
+com\matchmingle\models\Mensaje.class
+com\matchmingle\services\UsuarioService.class
+com\matchmingle\database\DatabaseConnection.class
+com\matchmingle\MatchMingleProject.class
+com\matchmingle\models\Usuario.class
+com\matchmingle\models\Preferencia.class
+com\matchmingle\User.class
